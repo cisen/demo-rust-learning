@@ -10,8 +10,7 @@
       "request": "launch",
       "program": "./target/debug/demo-rust-learning",
       "args": [],
-      "cwd": "${workspaceRoot}", //
-      "preLaunchTask": "Cargo Run",
+      "cwd": "${workspaceRoot}", // "preLaunchTask": "Cargo Run",
     },
     {
       "type": "lldb",
